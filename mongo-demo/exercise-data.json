@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Jawid Anwari",
+    "tags": ["express", "backend"],
+    "date": "07-09-2023",
+    "isPublished": true,
+    "author": "Anwari",
+    "price": 4000
+  },
+  {
+    "name": "Jawid Anwari",
+    "tags": ["Node", "backend"],
+    "date": "07-09-2023",
+    "isPublished": true,
+    "author": "Anwari",
+    "price": 10000
+  },
+  {
+    "name": "Jawid Anwari",
+    "tags": ["Html", "frontend"],
+    "date": "07-09-2023",
+    "isPublished": true,
+    "author": "Anwari",
+    "price": 3000
+  },
+  {
+    "name": "Jawid Anwari",
+    "tags": ["java", "frontend"],
+    "date": "07-09-2023",
+    "isPublished": true,
+    "author": "Anwari",
+    "price": 3500
+  }
+]
